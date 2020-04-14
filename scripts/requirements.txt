@@ -1,1 +1,9 @@
-dataflows==0.0.71
+voila
+voila-material
+pandas
+ipywidgets
+seaborn
+plotly
+folium
+matplotlib
+numpy
